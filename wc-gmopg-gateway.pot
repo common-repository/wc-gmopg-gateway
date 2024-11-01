@@ -1,0 +1,526 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway GMOPG for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-18 15:00+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: wc-gmopg-gateway.php:27 wc-gmopg-gateway.php:153
+msgid "In order to use GMOPG, you have to purchase the authentication key at the following site."
+msgstr ""
+
+#: wc-gmopg-gateway.php:50
+msgid "GMOPG - Credit Card"
+msgstr ""
+
+#: wc-gmopg-gateway.php:51
+msgid "Enable the credit card payment by GMOPG. You can change the other settings here."
+msgstr ""
+
+#: wc-gmopg-gateway.php:77 wc-gmopg-gateway.php:463 wc-gmopg-gateway.php:618
+#: wc-gmopg-gateway.php:776 wc-gmopg-gateway.php:946 wc-gmopg-gateway.php:1114
+#: wc-gmopg-gateway.php:1281 wc-gmopg-gateway.php:1439
+#: wc-gmopg-gateway.php:1595 wc-gmopg-gateway.php:1762
+#: wc-gmopg-gateway.php:1918 wc-gmopg-gateway.php:2086
+#: wc-gmopg-gateway.php:2254 wc-gmopg-gateway.php:2422
+#: wc-gmopg-gateway.php:2590
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc-gmopg-gateway.php:78
+msgid "Enable GMOPG - Credit Card"
+msgstr ""
+
+#: wc-gmopg-gateway.php:84 wc-gmopg-gateway.php:470 wc-gmopg-gateway.php:625
+#: wc-gmopg-gateway.php:783 wc-gmopg-gateway.php:953 wc-gmopg-gateway.php:1121
+#: wc-gmopg-gateway.php:1288 wc-gmopg-gateway.php:1446
+#: wc-gmopg-gateway.php:1602 wc-gmopg-gateway.php:1769
+#: wc-gmopg-gateway.php:1925 wc-gmopg-gateway.php:2093
+#: wc-gmopg-gateway.php:2261 wc-gmopg-gateway.php:2429
+#: wc-gmopg-gateway.php:2597
+msgid "Title"
+msgstr ""
+
+#: wc-gmopg-gateway.php:86 wc-gmopg-gateway.php:472 wc-gmopg-gateway.php:627
+#: wc-gmopg-gateway.php:785 wc-gmopg-gateway.php:955 wc-gmopg-gateway.php:1123
+#: wc-gmopg-gateway.php:1290 wc-gmopg-gateway.php:1448
+#: wc-gmopg-gateway.php:1604 wc-gmopg-gateway.php:1771
+#: wc-gmopg-gateway.php:1927 wc-gmopg-gateway.php:2095
+#: wc-gmopg-gateway.php:2263 wc-gmopg-gateway.php:2431
+#: wc-gmopg-gateway.php:2599
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: wc-gmopg-gateway.php:87
+msgid "Credit Card"
+msgstr ""
+
+#: wc-gmopg-gateway.php:91 wc-gmopg-gateway.php:477 wc-gmopg-gateway.php:632
+#: wc-gmopg-gateway.php:790 wc-gmopg-gateway.php:960 wc-gmopg-gateway.php:1128
+#: wc-gmopg-gateway.php:1295 wc-gmopg-gateway.php:1453
+#: wc-gmopg-gateway.php:1609 wc-gmopg-gateway.php:1776
+#: wc-gmopg-gateway.php:1932 wc-gmopg-gateway.php:2100
+#: wc-gmopg-gateway.php:2268 wc-gmopg-gateway.php:2436
+#: wc-gmopg-gateway.php:2604
+msgid "Description"
+msgstr ""
+
+#: wc-gmopg-gateway.php:93 wc-gmopg-gateway.php:479 wc-gmopg-gateway.php:634
+#: wc-gmopg-gateway.php:792 wc-gmopg-gateway.php:962 wc-gmopg-gateway.php:1130
+#: wc-gmopg-gateway.php:1297 wc-gmopg-gateway.php:1455
+#: wc-gmopg-gateway.php:1611 wc-gmopg-gateway.php:1778
+#: wc-gmopg-gateway.php:1934 wc-gmopg-gateway.php:2102
+#: wc-gmopg-gateway.php:2270 wc-gmopg-gateway.php:2438
+#: wc-gmopg-gateway.php:2606
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: wc-gmopg-gateway.php:94
+msgid "Pay with your credit card"
+msgstr ""
+
+#: wc-gmopg-gateway.php:98
+msgid "Shop ID"
+msgstr ""
+
+#: wc-gmopg-gateway.php:103
+msgid "Shop Password"
+msgstr ""
+
+#: wc-gmopg-gateway.php:108
+msgid "Config ID"
+msgstr ""
+
+#: wc-gmopg-gateway.php:109
+msgid "Please input the Config ID of the Link Type Plus on the GMOPG admin panel."
+msgstr ""
+
+#: wc-gmopg-gateway.php:114
+msgid "Mode"
+msgstr ""
+
+#: wc-gmopg-gateway.php:118
+msgid "Real"
+msgstr ""
+
+#: wc-gmopg-gateway.php:119
+msgid "Sandbox"
+msgstr ""
+
+#: wc-gmopg-gateway.php:123 wc-gmopg-gateway.php:797 wc-gmopg-gateway.php:967
+#: wc-gmopg-gateway.php:1135 wc-gmopg-gateway.php:1616
+#: wc-gmopg-gateway.php:1939 wc-gmopg-gateway.php:2107
+#: wc-gmopg-gateway.php:2443 wc-gmopg-gateway.php:2611
+msgid "Authorization"
+msgstr ""
+
+#: wc-gmopg-gateway.php:127 wc-gmopg-gateway.php:801 wc-gmopg-gateway.php:971
+#: wc-gmopg-gateway.php:1139 wc-gmopg-gateway.php:1620
+#: wc-gmopg-gateway.php:1943 wc-gmopg-gateway.php:2111
+#: wc-gmopg-gateway.php:2447 wc-gmopg-gateway.php:2615
+msgid "Capture"
+msgstr ""
+
+#: wc-gmopg-gateway.php:128 wc-gmopg-gateway.php:802 wc-gmopg-gateway.php:972
+#: wc-gmopg-gateway.php:1140 wc-gmopg-gateway.php:1621
+#: wc-gmopg-gateway.php:1944 wc-gmopg-gateway.php:2112
+#: wc-gmopg-gateway.php:2448 wc-gmopg-gateway.php:2616
+msgid "Authorize"
+msgstr ""
+
+#: wc-gmopg-gateway.php:132 wc-gmopg-gateway.php:484 wc-gmopg-gateway.php:639
+#: wc-gmopg-gateway.php:806 wc-gmopg-gateway.php:976 wc-gmopg-gateway.php:1144
+#: wc-gmopg-gateway.php:1302 wc-gmopg-gateway.php:1460
+#: wc-gmopg-gateway.php:1625 wc-gmopg-gateway.php:1783
+#: wc-gmopg-gateway.php:1948 wc-gmopg-gateway.php:2116
+#: wc-gmopg-gateway.php:2284 wc-gmopg-gateway.php:2452
+#: wc-gmopg-gateway.php:2620
+msgid "Status"
+msgstr ""
+
+#: wc-gmopg-gateway.php:137 wc-gmopg-gateway.php:489 wc-gmopg-gateway.php:644
+#: wc-gmopg-gateway.php:811 wc-gmopg-gateway.php:981 wc-gmopg-gateway.php:1149
+#: wc-gmopg-gateway.php:1307 wc-gmopg-gateway.php:1465
+#: wc-gmopg-gateway.php:1630 wc-gmopg-gateway.php:1788
+#: wc-gmopg-gateway.php:1953 wc-gmopg-gateway.php:2121
+#: wc-gmopg-gateway.php:2289 wc-gmopg-gateway.php:2457
+#: wc-gmopg-gateway.php:2625
+msgid "Processing"
+msgstr ""
+
+#: wc-gmopg-gateway.php:138 wc-gmopg-gateway.php:490 wc-gmopg-gateway.php:645
+#: wc-gmopg-gateway.php:812 wc-gmopg-gateway.php:982 wc-gmopg-gateway.php:1150
+#: wc-gmopg-gateway.php:1308 wc-gmopg-gateway.php:1466
+#: wc-gmopg-gateway.php:1631 wc-gmopg-gateway.php:1789
+#: wc-gmopg-gateway.php:1954 wc-gmopg-gateway.php:2122
+#: wc-gmopg-gateway.php:2290 wc-gmopg-gateway.php:2458
+#: wc-gmopg-gateway.php:2626
+msgid "Completed"
+msgstr ""
+
+#: wc-gmopg-gateway.php:142
+msgid "Logging"
+msgstr ""
+
+#: wc-gmopg-gateway.php:143
+msgid "Log debug messages"
+msgstr ""
+
+#: wc-gmopg-gateway.php:145
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr ""
+
+#: wc-gmopg-gateway.php:150
+msgid "Authentication Key"
+msgstr ""
+
+#: wc-gmopg-gateway.php:172
+msgid "Because Authentication Key is not valid, you can not set Real as the mode."
+msgstr ""
+
+#: wc-gmopg-gateway.php:273 wc-gmopg-gateway.php:313 wc-gmopg-gateway.php:325
+#: wc-gmopg-gateway.php:375 wc-gmopg-gateway.php:409 wc-gmopg-gateway.php:580
+#: wc-gmopg-gateway.php:735 wc-gmopg-gateway.php:905 wc-gmopg-gateway.php:1075
+#: wc-gmopg-gateway.php:1243 wc-gmopg-gateway.php:1401
+#: wc-gmopg-gateway.php:1556 wc-gmopg-gateway.php:1724
+#: wc-gmopg-gateway.php:1879 wc-gmopg-gateway.php:2047
+#: wc-gmopg-gateway.php:2215 wc-gmopg-gateway.php:2383
+#: wc-gmopg-gateway.php:2551 wc-gmopg-gateway.php:2719
+msgid "GMOPG settlement canceled."
+msgstr ""
+
+#: wc-gmopg-gateway.php:281 wc-gmopg-gateway.php:309 wc-gmopg-gateway.php:321
+#: wc-gmopg-gateway.php:425 wc-gmopg-gateway.php:913 wc-gmopg-gateway.php:1081
+#: wc-gmopg-gateway.php:1249 wc-gmopg-gateway.php:1407
+#: wc-gmopg-gateway.php:1562 wc-gmopg-gateway.php:1730
+#: wc-gmopg-gateway.php:1885 wc-gmopg-gateway.php:2053
+#: wc-gmopg-gateway.php:2221 wc-gmopg-gateway.php:2389
+#: wc-gmopg-gateway.php:2557 wc-gmopg-gateway.php:2725
+msgid "GMOPG settlement completed."
+msgstr ""
+
+#: wc-gmopg-gateway.php:299 wc-gmopg-gateway.php:331 wc-gmopg-gateway.php:339
+#: wc-gmopg-gateway.php:347 wc-gmopg-gateway.php:355 wc-gmopg-gateway.php:363
+#: wc-gmopg-gateway.php:371 wc-gmopg-gateway.php:381 wc-gmopg-gateway.php:391
+#: wc-gmopg-gateway.php:399 wc-gmopg-gateway.php:407 wc-gmopg-gateway.php:417
+#, php-format
+msgid "GMOPG settlement completed (Transaction No: %s)."
+msgstr ""
+
+#: wc-gmopg-gateway.php:301
+#, php-format
+msgid "Total amount does not match (Transaction No: %s)."
+msgstr ""
+
+#: wc-gmopg-gateway.php:307 wc-gmopg-gateway.php:319
+#, php-format
+msgid "GMOPG settlement displayed (Transaction No: %s, Detail: %s)."
+msgstr ""
+
+#: wc-gmopg-gateway.php:311 wc-gmopg-gateway.php:323
+msgid "GMOPG settlement expired."
+msgstr ""
+
+#: wc-gmopg-gateway.php:333 wc-gmopg-gateway.php:341 wc-gmopg-gateway.php:349
+#: wc-gmopg-gateway.php:357 wc-gmopg-gateway.php:365 wc-gmopg-gateway.php:373
+#: wc-gmopg-gateway.php:383 wc-gmopg-gateway.php:393 wc-gmopg-gateway.php:401
+#: wc-gmopg-gateway.php:411 wc-gmopg-gateway.php:419 wc-gmopg-gateway.php:427
+msgid "GMOPG settlement failed."
+msgstr ""
+
+#: wc-gmopg-gateway.php:389
+#, php-format
+msgid "GMOPG settlement displayed (Transaction No: %s)."
+msgstr ""
+
+#: wc-gmopg-gateway.php:444
+msgid "GMOPG - CVS"
+msgstr ""
+
+#: wc-gmopg-gateway.php:445
+msgid "Enable the CVS payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:464
+msgid "Enable GMOPG - CVS"
+msgstr ""
+
+#: wc-gmopg-gateway.php:473
+msgid "CVS"
+msgstr ""
+
+#: wc-gmopg-gateway.php:480
+msgid "Pay with CVS"
+msgstr ""
+
+#: wc-gmopg-gateway.php:586 wc-gmopg-gateway.php:743
+msgid "GMOPG settlement requested."
+msgstr ""
+
+#: wc-gmopg-gateway.php:599
+msgid "GMOPG - Pay-easy"
+msgstr ""
+
+#: wc-gmopg-gateway.php:600
+msgid "Enable the Pay-easy payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:619
+msgid "Enable GMOPG - Pay-easy"
+msgstr ""
+
+#: wc-gmopg-gateway.php:628
+msgid "Pay-easy"
+msgstr ""
+
+#: wc-gmopg-gateway.php:635
+msgid "Pay with Pay-easy"
+msgstr ""
+
+#: wc-gmopg-gateway.php:756
+msgid "GMOPG - Docomo"
+msgstr ""
+
+#: wc-gmopg-gateway.php:757
+msgid "Enable the Docomo payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:777
+msgid "Enable GMOPG - Docomo"
+msgstr ""
+
+#: wc-gmopg-gateway.php:786
+msgid "Docomo"
+msgstr ""
+
+#: wc-gmopg-gateway.php:793
+msgid "Pay with Docomo"
+msgstr ""
+
+#: wc-gmopg-gateway.php:926
+msgid "GMOPG - AU"
+msgstr ""
+
+#: wc-gmopg-gateway.php:927
+msgid "Enable the AU payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:947
+msgid "Enable GMOPG - AU"
+msgstr ""
+
+#: wc-gmopg-gateway.php:956
+msgid "AU"
+msgstr ""
+
+#: wc-gmopg-gateway.php:963
+msgid "Pay with AU"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1094
+msgid "GMOPG - SoftBank"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1095
+msgid "Enable the SoftBank payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1115
+msgid "Enable GMOPG - SoftBank"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1124
+msgid "SoftBank"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1131
+msgid "Pay with SoftBank"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1262
+msgid "GMOPG - Epos Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1263
+msgid "Enable the Epos Pay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1282
+msgid "Enable GMOPG - Epos Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1291
+msgid "Epos Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1298
+msgid "Pay with Epos Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1420
+msgid "GMOPG - DCC"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1421
+msgid "Enable the DCC payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1440
+msgid "Enable GMOPG - DCC"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1449
+msgid "DCC"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1456
+msgid "Pay with DCC"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1575
+msgid "GMOPG - LINE Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1576
+msgid "Enable the LINE Pay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1596
+msgid "Enable GMOPG - LINE Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1605
+msgid "LINE Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1612
+msgid "Pay with LINE Pay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1743
+msgid "GMOPG - FamiPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1744
+msgid "Enable the FamiPay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1763
+msgid "Enable GMOPG - FamiPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1772
+msgid "FamiPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1779
+msgid "Pay with FamiPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1898
+msgid "GMOPG - Merpay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1899 wc-gmopg-gateway.php:2067
+msgid "Enable the Merpay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:1919
+msgid "Enable GMOPG - Merpay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1928
+msgid "Merpay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:1935
+msgid "Pay with Merpay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2066
+msgid "GMOPG - Rakuten Pay V2"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2087
+msgid "Enable GMOPG - Rakuten Pay V2"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2096
+msgid "Rakuten Pay V2"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2103
+msgid "Pay with Rakuten Pay V2"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2234
+msgid "GMOPG - PayPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2235
+msgid "Enable the PayPay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:2255
+msgid "Enable GMOPG - PayPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2264
+msgid "PayPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2271
+msgid "Pay with PayPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2402
+msgid "GMOPG - au PAY"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2403
+msgid "Enable the au PAY payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:2423
+msgid "Enable GMOPG - au PAY"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2432
+msgid "au PAY"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2439
+msgid "Pay with au PAY"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2570
+msgid "GMOPG - UnionPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2571
+msgid "Enable the UnionPay payment by GMOPG."
+msgstr ""
+
+#: wc-gmopg-gateway.php:2591
+msgid "Enable GMOPG - UnionPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2600
+msgid "UnionPay"
+msgstr ""
+
+#: wc-gmopg-gateway.php:2607
+msgid "Pay with UnionPay"
+msgstr ""
